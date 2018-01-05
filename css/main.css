@@ -59,7 +59,7 @@ a,a:hover,a:visited{
   text-decoration: underline; /*figure out a way to animate underline*/
 }
 
-.DetailsButton {
+.DetailsButton,.DetailsButton:visited {
   text-decoration: none;
   padding: 5px 10px;
   border:2px solid #40C9A2;
@@ -72,9 +72,4 @@ a,a:hover,a:visited{
   text-decoration: none;
   color: #FFF;
   background-color: #40C9A2;
-}
-
-.DetailsButton:visited {
-  text-decoration: none;
-  color: #40C9A2;
 }
