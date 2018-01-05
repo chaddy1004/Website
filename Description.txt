@@ -1,0 +1,14 @@
+Agfa: Junior Hardware Engineer working on industrial printers. Implemented different test fixtures and design changes to shorten the assembly time.
+
+BBCR Lab: Junior Researcher in Broad Band Communication Research (BBCR) Lab that is part of ECE department in University of Waterloo. Created test scripts for sharing media through vehicular network.
+
+WEEF TA: General WEEF TA for the First Year Engineering Students in University of Waterloo. Supported 6 courses through hosting daily help sessions and exam reviews.
+
+
+Beowulf
+
+Squat Script: Analyzed the position of squat exercise in its lowest position to determine how the effect of posture on torque applied on joints of legs.
+
+
+
+

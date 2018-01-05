@@ -1,0 +1,80 @@
+h1,h2,h3{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+p{
+  font-family:'Mada', sans-serif;
+}
+
+a,a:hover,a:visited{
+  font-family:'Mada', sans-serif;
+  text-decoration: none;
+}
+
+
+.horizontallyCentered{
+  text-align: center;
+}
+
+.verticallyCentered{
+  display: flex;
+  align-items: center;
+}
+
+.fullHeight{
+  height: 100%;
+}
+
+.rightAlign{
+  text-align: right;
+}
+
+
+#profilePic {
+  width: 150px;
+  border-radius: 50%;
+  /*margin-top:150px;*/
+}
+
+#LandingPage{
+  margin-bottom: 100px;
+}
+
+
+.Intro {
+  font-size: 20px;
+  font-family: 'Mada', sans-serif;
+}
+
+.navEntry {
+  color: #40C9A2;
+  display: inline-block; /*Only takes up the space of the text*/
+  margin: 10px;
+  font-size: 15px;
+  transition: 0.2s all;
+}
+
+.navEntry:hover{
+  color: #209780;/*first two are red, second two are green, last two are blue*/
+  text-decoration: underline; /*figure out a way to animate underline*/
+}
+
+.DetailsButton {
+  text-decoration: none;
+  padding: 5px 10px;
+  border:2px solid #40C9A2;
+  border-radius: 50px;
+  transition:0.2s all;
+  color: #40C9A2; /*Determines the colour of the text */
+}
+
+.DetailsButton:hover {
+  text-decoration: none;
+  color: #FFF;
+  background-color: #40C9A2;
+}
+
+.DetailsButton:visited {
+  text-decoration: none;
+  color: #40C9A2;
+}
