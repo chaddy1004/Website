@@ -40,6 +40,10 @@ a,a:hover,a:visited{
   margin-bottom: 100px;
 }
 
+.Title{
+  font-size: 40px;
+  font-weight: bold;
+}
 
 .Intro {
   font-size: 20px;
@@ -57,6 +61,24 @@ a,a:hover,a:visited{
 .navEntry:hover{
   color: #209780;/*first two are red, second two are green, last two are blue*/
   text-decoration: underline; /*figure out a way to animate underline*/
+}
+
+.fullWidthGray1{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F1F1F1;
+}
+
+.fullWidthGray2{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F7F7F7;
+}
+
+.GrayBackground{
+  background-color: #F1F1F1;
 }
 
 .DetailsButton,.DetailsButton:visited {
