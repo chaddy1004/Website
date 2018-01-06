@@ -30,6 +30,11 @@ a,a:hover,a:visited{
   text-align: right;
 }
 
+.leftAlign{
+  text-align: left;
+}
+
+
 
 #profilePic {
   width: 150px;
