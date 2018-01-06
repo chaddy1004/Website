@@ -49,6 +49,7 @@ a,a:hover,a:visited{
 .EntryTitle{
   font-weight: bold;
   font-size: 36px;
+  margin-bottom: 15px;
 }
 
 .Intro {
@@ -74,29 +75,67 @@ a,a:hover,a:visited{
   text-decoration: underline; /*figure out a way to animate underline*/
 }
 
-.fullWidthGray1{
+.fullWidthGrayW1{
   width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #F1F1F1;
 }
 
-.fullWidthGray2{
+.fullWidthGrayW2{
   width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #F7F7F7;
+  background-color: #FBFBF2;
 }
 
-.fullWidthGray3{
+
+.fullWidthGrayW3{
   width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #FFFFFF;
 }
 
+.fullWidthGrayP1{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F6EFEE;
+}
+
+.fullWidthGrayP2{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F1FFFA;
+}
+
+.fullWidthGrayP3{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #C4CAD0;
+}
+
 .GrayBackground{
   background-color: #F1F1F1;
+}
+
+.Keywords{
+  font-size: 15px;
+  text-decoration:none;
+  padding: 3px 15px;
+  border:2px solid #40C9A2;
+  border-radius: 55px;
+  background-color: #40C9A2;
+  color: #FFF;
+  display: inline;
+  margin-bottom: 100px;
+}
+
+.EntryDescription{
+  margin-top: 20px;
 }
 
 .DetailsButton,.DetailsButton:visited {
@@ -112,4 +151,9 @@ a,a:hover,a:visited{
   text-decoration: none;
   color: #FFF;
   background-color: #40C9A2;
+}
+
+.GridTitle{
+  font-size: 25px;
+  font-weight: bold;
 }
